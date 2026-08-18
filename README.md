@@ -17,4 +17,10 @@ INC-001,2026-08-01T09:00:00,2026-08-01T10:20:00,closed,high,access
 python analyze_cases.py tickets.csv
 ```
 
+Para probarlo sin usar datos reales:
+
+```powershell
+python analyze_cases.py examples/tickets.csv
+```
+
 Esta herramienta ayuda a responder preguntas operativas: qué categorías concentran más casos, qué prioridades crecen y cuánto tarda en cerrarse un ticket.

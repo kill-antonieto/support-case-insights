@@ -1,0 +1,5 @@
+id,opened_at,closed_at,status,priority,category
+INC-001,2026-08-01T09:00:00,2026-08-01T10:20:00,closed,high,access
+INC-002,2026-08-01T11:10:00,2026-08-01T12:00:00,closed,medium,email
+INC-003,2026-08-02T08:30:00,,open,high,access
+INC-004,2026-08-02T14:00:00,2026-08-02T14:40:00,closed,low,hardware
